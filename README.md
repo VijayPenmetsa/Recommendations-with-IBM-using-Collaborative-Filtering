@@ -8,4 +8,5 @@
 - All the steps used are clearly described inside the jupyter notebook.
 - Data can be found inside the data folder.
 
+### The Analysis can be found in the notebook.
 
